@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\bin\Debug\Diverse-Engineers.exe.config
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\bin\Debug\Diverse-Engineers.exe
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\bin\Debug\Diverse-Engineers.pdb
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\obj\Debug\Diverse-Engineers.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\obj\Debug\Diverse_Engineers.MainForm.resources
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\obj\Debug\Diverse_Engineers.Properties.Resources.resources
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\obj\Debug\Diverse-Engineers.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\obj\Debug\Diverse-Engineers.exe
-C:\Users\HP\Desktop\myproject CIS524\Diverse-Engineers\Diverse-Engineers\obj\Debug\Diverse-Engineers.pdb
